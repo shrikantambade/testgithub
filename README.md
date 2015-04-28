@@ -1,2 +1,4 @@
 # testgithub
-my first git hub repo
+##############
+
+This is my first repo on git hub.. I am learning it...
